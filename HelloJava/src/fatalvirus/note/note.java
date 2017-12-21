@@ -4,7 +4,19 @@ public class note {
 
 	public static void main(String[] args) {
 
-		System.out.println((int) '9');
-		System.out.println((int) '0');
+		Child1 c1 = new Child1();
+
+	}
+}
+
+class Child1 {
+	int x = 3000;
+
+	Child1() {
+		this(1000);
+	}
+
+	Child1(int x) {
+		this.x = x;
 	}
 }

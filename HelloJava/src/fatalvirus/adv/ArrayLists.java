@@ -8,6 +8,7 @@ import project.v1.SungJukVO;
 
 public class ArrayLists {
 
+	@SuppressWarnings({ "rawtypes", "unchecked", "unused" })
 	public static void main(String[] args) {
 
 		// 배열

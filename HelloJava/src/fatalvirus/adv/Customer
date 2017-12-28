@@ -1,0 +1,7 @@
+create sequence cno;
+
+delete from CUSTOMER;
+
+delete from customer where cno = 22;
+
+select * from CUSTOMER;

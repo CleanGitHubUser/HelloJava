@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="HelloJava/src"/>
+	<classpathentry kind="lib" path="D:/빅데이터/java/jdbc/ojdbc7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -99,6 +99,11 @@ public class SoccerJDBC {
 				conn.close();
 			} catch (Exception e) {
 			}
+			try {
+				sc.close();
+			} catch (Exception e) {
+			}
 		}
 	}
+
 }
